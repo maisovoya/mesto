@@ -1,5 +1,5 @@
 const apiUrl = "https://nomoreparties.co/v1/apf-cohort-202";
-const token = "e19a2425-92bc-4aed-9290-450de7b4c487";
+const token = "6eb3ad62-5163-415a-a0fc-f69628bbf6e4";
 
 function getUsersData() {
     return fetch(`${apiUrl}/users/me`, {
