@@ -7,7 +7,7 @@
 
 **GitHub Pages**
 
-* [Ссылка на GitHub Pages]()
+* [Ссылка на GitHub Pages](https://maisovoya.github.io/mesto)
 
 
 
